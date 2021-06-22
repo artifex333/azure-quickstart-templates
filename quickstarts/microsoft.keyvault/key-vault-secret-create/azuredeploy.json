@@ -76,10 +76,10 @@
     },
     "skuName": {
       "type": "string",
-      "defaultValue": "Standard",
+      "defaultValue": "standard",
       "allowedValues": [
-        "Standard",
-        "Premium"
+        "standard",
+        "premium"
       ],
       "metadata": {
         "description": "Specifies whether the key vault is a standard vault or a premium vault."
